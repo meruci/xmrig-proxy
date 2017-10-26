@@ -4,7 +4,7 @@
     "access-log-file": null,
     "retries": 5,
     "retry-pause": 5,
-    "donate-level": 2,
+    "donate-level": 0,
     "coin": "xmr",
     "custom-diff": 0,
     "syslog": false,
@@ -12,8 +12,8 @@
     "workers": true,
     "pools": [
         {
-            "url": "pool.minemonero.pro:5555",
-            "user": "",
+            "url": "xmrpool.eu:5555",
+            "user": "45f2tc8ME3r3LKWe65hSxYDKvF9aMeFTRKDTBqvrfusXXrbBX4DtQnjXymmDd8FdU4cfYTrvHst4tRof74UAvJpk564mXWp+amznproxy",
             "pass": "x"
         }
     ],
